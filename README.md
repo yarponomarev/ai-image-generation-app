@@ -1,15 +1,18 @@
-# Ansh & Riley Full-Stack Template
+# Шаблон Full-Stack от Ansh & Riley
 
-This is a full-stack template project for Software Composers to create  applications with AI.
+Это шаблонный проект для создания приложений с использованием искусственного интеллекта.
 
-## Getting started
-To create a new project, you go to `/paths`, choose from our list of Paths, and then use Cursor's Composer feature to quickly scaffold your project!
+## Начало работы
 
-You can also edit the Path's prompt template to be whatever you like!
+Введите `npm i` в терминале для установки необходимых пакетов.
 
-## Technologies used
-This doesn't really matter, but is useful for the AI to understand more about this project. We are using the following technologies
-- React with Next.js 14 App Router
+Чтобы создать новый проект, перейдите в папку `/paths`, выберите один из доступных путей и используйте функцию Composer в Cursor для быстрого создания каркаса вашего проекта!
+
+Вы также можете отредактировать шаблон подсказки Path на любой, который вам нравится!
+
+## Используемые технологии
+Это не так важно, но полезно для ИИ, чтобы лучше понять этот проект. Мы используем следующие технологии:
+- React с Next.js 14 App Router
 - TailwindCSS
-- Firebase Auth, Storage, and Database
-- Multiple AI endpoints including OpenAI, Anthropic, and Replicate using Vercel's AI SDK
+- Firebase Auth, Storage и Database
+- Несколько AI-эндпоинтов, включая OpenAI, Anthropic и Replicate, с использованием Vercel AI SDK
