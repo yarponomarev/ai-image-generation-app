@@ -18,13 +18,13 @@
 
 ```
 src/
-├── app/                    # Next.js App Router
-│   ├── api/               # API маршруты
-│   │   ├── openai/       # OpenAI интеграция
-│   │   ├── anthropic/    # Anthropic интеграция
-│   │   ├── replicate/    # Replicate интеграция
-│   │   └── deepgram/     # Deepgram интеграция
-│   ├── components/       # React компоненты
+├── app/                 # Next.js App Router
+│   ├── api/             # API маршруты
+│   │   ├── openai/      # OpenAI интеграция
+│   │   ├── anthropic/   # Anthropic интеграция
+│   │   ├── replicate/   # Replicate интеграция
+│   │   └── deepgram/    # Deepgram интеграция
+│   ├── components/      # React компоненты
 │   └── lib/             # Вспомогательные модули
 │       ├── contexts/    # React контексты
 │       ├── hooks/       # Пользовательские хуки
